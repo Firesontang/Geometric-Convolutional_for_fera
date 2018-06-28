@@ -34,4 +34,5 @@ Quick start: follow the step exactly
     under ten-fold cross validation.
 	Dataset ID: 1== MMI ; 2 == CK+ ; 3 == Oulu-CASIA
 	Network ID: 1== DGFN ; 2 == DFSN ; 3 == DFSN-I
+	As mentioned in 1 MMI is not prepared in this situation.
     The result will be shown in the end of training and also shown in ./cnn_mark directory
